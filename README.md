@@ -1,5 +1,5 @@
 # BHGNN
-This is a PyTorch implementation of the BHGNN model from paper [Bayesian Hierarchical Graph Neural Networks with Uncertainty Feedback for Trustworthy 
+This is a PyTorch implementation of the BHGNN model from the paper [Bayesian Hierarchical Graph Neural Networks with Uncertainty Feedback for Trustworthy 
 Fault Diagnosis of Industrial Processes]
 
 # Platform
@@ -16,15 +16,14 @@ Fault Diagnosis of Industrial Processes]
 * [what](https://github.com/hmi88/what)
 
 # Citation
-If you find IAGNN useful for your research, please citing the following paper:
+If you find IAGNN useful for your research, please cite the following paper:
 
 @ARTICLE{chenBHGNN2023,
-  author={Chen, Dongyue},
-  journal={}, 
-  title={Bayesian Hierarchical Graph Neural Networks with Uncertainty Feedback for Trustworthy 
-Fault Diagnosis of Industrial Processes}, 
+  author={Chen, Dongyue and Xie, Zongxia and Liu, Ruonan and Yu, Wenlong and Hu, Qinghua and Li, Xianling and Ding, Steven X.},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Bayesian Hierarchical Graph Neural Networks With Uncertainty Feedback for Trustworthy Fault Diagnosis of Industrial Processes}, 
   year={2023},
   volume={},
   number={},
-  pages={},
-  doi={}}
+  pages={1-14},
+  doi={10.1109/TNNLS.2023.3319468}}
