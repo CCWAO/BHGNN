@@ -16,7 +16,7 @@ Fault Diagnosis of Industrial Processes]
 * [what](https://github.com/hmi88/what)
 
 # Citation
-If you find IAGNN useful for your research, please cite the following paper:
+If you find BHGNN is useful for your research, please cite the following paper:
 
 @ARTICLE{chenBHGNN2023,
   author={Chen, Dongyue and Xie, Zongxia and Liu, Ruonan and Yu, Wenlong and Hu, Qinghua and Li, Xianling and Ding, Steven X.},
@@ -26,4 +26,4 @@ If you find IAGNN useful for your research, please cite the following paper:
   volume={},
   number={},
   pages={1-14},
-  doi={10.1109/TNNLS.2023.3319468}}
+  doi={10.1109/TNNLS.2023.3319468}
